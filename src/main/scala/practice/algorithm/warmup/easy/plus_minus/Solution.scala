@@ -1,4 +1,4 @@
-package practice.algorithm.warmup.easy.plus_minum
+package practice.algorithm.warmup.easy.plus_minus
 
 import java.io._
 import java.math._

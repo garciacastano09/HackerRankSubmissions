@@ -1,4 +1,4 @@
-package practice.algorithm.warmup.easy.birthday_cakes
+package practice.algorithm.warmup.easy.birthday_cake_candles
 
 import java.io._
 
